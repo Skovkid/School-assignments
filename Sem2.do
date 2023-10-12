@@ -1,6 +1,6 @@
 *Get files
 
-use "C:\Users\Viktor\Documents\Stockholms Universitet\Statasvet Stata\data_wa4.dta",clear
+use "\data_wa4.dta",clear
 
 
 * överblick på datan
